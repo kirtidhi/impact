@@ -10,7 +10,6 @@ An AI Agent can install this repository into your workspace. Once installed, the
 
 - **Coaching**: Contains the core AI System Prompt that defines the persona, behavior, and evaluation criteria for the mock interviewer.
 - **Curriculum**: Contains standard, industry-agnostic case interview frameworks (e.g., Strategy, Operations, Product Design) that the AI can test you on.
-- **Scrapers**: Placeholder directory for future tools to source public interview questions.
 
 ## Installation
 

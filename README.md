@@ -1,6 +1,6 @@
-# Interview Prep Repository
+# Case Interview Prep Coach
 
-A comprehensive repository for tech interview preparation, sourcing automation, and coaching frameworks. Synthesized from industry-leading platforms like Exponent and Kadima Careers.
+A comprehensive repository for tech interview preparation, sourcing automation, and coaching frameworks. Synthesized from industry-leading methodologies.
 
 ## Table of Contents
 - [Curriculum](#curriculum)
@@ -12,25 +12,25 @@ A comprehensive repository for tech interview preparation, sourcing automation, 
 ### For Manual Users
 Clone the repository:
 ```bash
-git clone https://github.com/kirtidhi/interview_prep_repo.git
-cd interview_prep_repo
+git clone https://github.com/kirtidhi/case_interview_prep_coach.git
+cd case_interview_prep_coach
 ```
 
 ### For AI Agents and CLI Users
-Ask your agent to fetch this repository and navigate through the modules directly in your workspace.
+An AI Agent can install this repository into your workspace. Once installed, the agent will have access to all the comprehensive frameworks, rubrics, and methodologies contained within. You can then simply ask the agent to initiate a practice session, and it will act as your interactive case interview coach!
 
 ## Modules
 
 ### Curriculum
 Contains structured notes and playbooks for various roles:
-- **Exponent BizOps:** Business Strategy, Operational Metrics, Estimation.
-- **Exponent FDE:** Forward Deployed Engineering guides.
-- **Kadima:** Job Acquisition Method and Growth Framework.
-- **Google ProdOps:** Internal rubrics and preparation guides.
+- **Business Operations:** Business Strategy, Operational Metrics, Estimation.
+- **Forward Deployed Engineering:** Forward Deployed Engineering guides.
+- **Growth Framework:** Job Acquisition Method and Growth Framework.
+- **Operations Rubrics:** Internal rubrics and preparation guides for Product Operations.
 
 ### Scrapers
 Automation scripts for sourcing and analyzing jobs:
-- LinkedIn sourcing automation (`source_all_companies.js`)
+- Sourcing automation (`source_all_companies.js`)
 - Dynamic ATS job scraping
 
 ### Coaching
@@ -40,7 +40,7 @@ Frameworks and mock simulator guidelines:
 
 ## Roadmap
 - Integrate vector RAG database for quick framework retrieval.
-- Add additional FAANG interview rubrics.
+- Add additional tech industry interview rubrics.
 
 ## License
 MIT License

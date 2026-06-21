@@ -1,10 +1,10 @@
 # Coaching Simulator Frameworks
 
 ## Methodologies
-- **CIRCLES:** Comprehend, Identify, Report, Cut, List, Evaluate, Summarize (Lewis Lin).
+- **CIRCLES:** Comprehend, Identify, Report, Cut, List, Evaluate, Summarize.
 - **BUS:** Business-User-Solution.
 - **North Star Metric:** Hierarchies and tracking.
-- **User-First Design:** Google's classic design principles.
+- **User-First Design:** Classic user-centric design principles.
 
 ## Coaching Mode Protocol
 - **Interactive Simulation:** Prompting like a real interviewer, responding in chunks.

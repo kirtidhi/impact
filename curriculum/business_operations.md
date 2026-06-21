@@ -1,4 +1,4 @@
-# Exponent BizOps Curriculum
+# Business Operations Curriculum
 
 ## Core Pillars
 1. **Business Strategy:** Structured problem-solving, estimation, prioritization, and operational strategy frameworks.
